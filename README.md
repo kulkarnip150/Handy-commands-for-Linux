@@ -280,7 +280,7 @@ $ date +%m/%d/%Y
 What about a week from now?
 
 ```shell
-$ date -d "+7 days"                                           # on Linux
+$ date -d "+7 days" 
 ```
 
 ### use a calculator
